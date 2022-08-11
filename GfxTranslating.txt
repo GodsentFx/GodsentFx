@@ -1,0 +1,766 @@
+
+How to translate:
+
+
+Our staff at GodsentFx will do the remaining job. For now, you should only make changes to the texts after the '-'
+
+For example:
+
+System ….. English
+A.b.o.ut - About
+Add_image - Add image
+
+Thr above was translated from system language to English. You should use the example to make translation from system to your language.
+
+Please, do not remove the space. It will make the texts easier for us to understand.
+
+If you don't know or not sure of the right word or translation, kindly skip that.
+
+Always remember to hit the save button on your editor. Lol.
+
+Get started now. Just remove the English and replace with the translation. Do not remove all the English words at once if it will make you confuse.
+
+
+Sending love to you, from Africa!
+
+
+System .......... English
+
+about: About
+about_me: About Me
+activate: Activate
+activated: Activated
+active: Active
+additional_images: Additional Images
+address: Address
+
+
+add_album: Add Album
+add_category: Add Category
+add_font: Add Font
+add_image: Add Image
+add_images: Add images
+
+add_image_url: Add Image Url
+add_language: Add Language
+add_link: Add Menu Link
+add_page: Add Page
+add_picked: Add to Our Picks
+add_poll Add Poll
+
+add_post: Add Post
+add_posts_as_draft: Add Posts as Draft
+add_reading_list: Add to Reading List
+add_role: Add Role
+
+
+add_slider: Add to Slider
+add_subcategory: Add Subcategory
+add_user: Add User
+add_video: Add Video
+admin: Admin
+admin_emails_will_send: Admin emails will be sent to this address
+
+
+admin_panel: Admin Panel
+admin_panel_link: Admin Panel Link
+ad_space: Ad Space
+ad_spaces: Ad Spaces
+album: Album
+albums: Albums
+album_cover: Album Cover
+album_name: Album Name
+all: All
+
+
+
+allowed_file_extensions: Allowed File Extensions
+all_permissions: All Permissions
+all_posts: All Posts
+all_users_can_vote: All Users Can Vote
+always: Always
+angry: Angry
+
+approve: Approve
+approved_comments: Approved Comments
+approve_posts_before_publishing: Approve Posts Before Publishing
+app_id: App ID
+
+
+app_name: Application Name
+app_secret: App Secret
+April: Apr
+August: Aug
+author: Author
+auto_post_deletion: Auto Post Deletion
+
+auto_update: Auto Update
+avatar: Avatar
+back: Back
+banned: Banned
+banner: Banner
+ban_user: Ban User
+
+
+browse_files: Browse Files
+cache_refresh_time: Cache Refresh Time (Minute)
+cache_refresh_time_exp: After this time, your cache files will be refreshed.
+
+cache_system: Cache System
+categories: Categories
+category: Category
+category_bottom_ad_space: Category (Bottom)
+
+category_name: Category Name
+category_top_ad_space: Category (Top)
+
+change_avatar: Change Avatar
+change_favicon: Change favicon
+change_image: Change image
+change_logo: Change logo
+
+change_password: Change Password
+change_password_error: There was a problem changing your password!
+change_user_role: Change User Role
+client_id: Client ID
+client_secret: Client Secret
+close: Close
+comment: Comment
+
+
+comments: Comments
+comment_approval_system: Comment Approval System
+comment_system: Comment System
+completed: Completed
+
+confirm_album: Are you sure you want to delete this album?
+confirm_ban: Are you sure you want to ban this user?
+
+
+confirm_category: Are you sure you want to delete this category?
+confirm_comment: Are you sure you want to delete this comment?
+confirm_comments: Are you sure you want to delete selected comments?
+
+
+
+confirm_delete: Are you sure you want to delete this item?
+confirm_email: Are you sure you want to delete this email address?
+
+
+confirm_image: Are you sure you want to delete this image?
+confirm_item: Are you sure you want to delete this item?
+confirm_language: Are you sure you want to delete this language?
+confirm_link: Are you sure you want to delete this link?
+
+
+confirm_message: Are you sure you want to delete this message?
+confirm_page: Are you sure you want to delete this page?
+confirm_password: Confirm Password
+confirm_poll: Are you sure you want to delete this poll?
+
+
+confirm_post: Are you sure you want to delete this post?
+confirm_posts: Are you sure you want to delete selected posts?
+confirm_remove_ban: Are you sure you want to remove ban for this user?
+
+
+confirm_subscriber: Are you sure you want to delete this subscriber?
+confirm_user: Are you sure you want to delete this user?
+connect_with_facebook: Connect with Facebook
+connect_with_google: Connect with Google
+
+
+contact_message: Contact Message
+contact_messages: Contact Messages
+contact_settings: Contact Settings
+contact_text: Contact Text
+content: Content
+cookies_warning: Cookies Warning
+copyright: Copyright
+custom: Custom
+
+custom_css_codes: Custom CSS Codes
+custom_css_codes_exp: These codes will be added to the header of the site.
+
+custom_javascript_codes: Custom JavaScript Codes
+custom_javascript_codes_exp: These codes will be added to the footer of the site.
+daily: Daily
+
+dark_mode: Dark Mode
+date: Date
+date_publish: Date Publish
+days_ago: days ago
+day_ago: day ago
+December: Dec
+default: Default
+default_language: Default Language
+delete: Delete
+
+
+delete_all: Delete All
+delete_all_posts: Delete All Posts
+delete_only_rss_posts: Delete only RSS Posts
+delete_reading_list: Remove from Reading List
+description: Description
+disable: Disable
+dislike: Dislike
+
+
+dont_want_receive_emails: Don't want receive these emails?
+download_database_backup: Download Database Backup
+download_images_my_server: Download Images to My Server
+drafts: Drafts
+
+
+drag_drop_files_here: Drag and drop files here or
+edit: Edit
+edit_role: Edit Role
+edit_translations: Edit Translations
+
+
+edit_user: Edit User
+email: Email
+email_address: Email Address
+email_options: Email Options
+email_option_contact_messages: Send contact messages to email address
+
+
+email_reset_password: Please click on the button below to reset your password.
+email_settings: Email Settings
+email_unique_error: The email has already been taken.
+emoji_reactions: Emoji Reactions
+emoji_reactions_type: Emoji Reactions Type
+enable: Enable
+
+
+encryption: Encryption
+export: Export
+facebook_comments: Facebook Comments
+facebook_comments_code: Facebook Comments Plugin Code
+favicon: Favicon
+February: Feb
+
+
+feed: Feed
+feed_name: Feed Name
+feed_url: Feed URL
+files: Files
+files_exp: Downloadable additional files (.pdf, .docx, .zip etc..)
+file_extensions: File Extensions
+file_manager: File Manager
+file_upload: File Upload
+filter: Filter
+
+
+folder_name: Folder Name
+follow: Follow
+followers: Followers
+following: Following
+fonts: Fonts
+font_family: Font Family
+font_settings: Font Settings
+footer: Footer
+
+
+footer_about_section: Footer About Section
+forgot_password: Forgot Password
+form_validation_is_unique: The {field} field must contain a unique value.
+form_validation_matches: The {field} field does not match the {param} field.
+
+
+form_validation_max_length: The {field} field cannot exceed {param} characters in length.
+form_validation_min_length: The {field} field must be at least {param} characters in length.
+form_validation_required: The {field} field is required.
+frequency: Frequency
+
+
+frequency_exp: This value indicates how frequently the content at a particular URL is likely to change 
+funny: Funny
+gallery: Gallery
+gallery_albums: Gallery Albums
+gallery_categories: Gallery Categories
+
+
+general_settings: General Settings
+generate: Generate
+generate_keywords_from_title: Generate Keywords from Title
+generate_sitemap: Generate Sitemap
+get_video: Get Video
+get_video_from_url: Get Video from Url
+
+
+gif_animated: GIF (Animated)
+google_adsense_code: Google Adsense Code
+google_analytics: Google Analytics
+google_analytics_code: Google Analytics Code
+google_fonts: Google Fonts
+google_recaptcha: Google reCAPTCHA
+go_to_home: Go to Homepage
+header: Header
+hide: Hide
+home: Home
+
+
+home_title: Home Title
+host: Host
+hourly: Hourly
+hours_ago: hours ago
+hour_ago: hour ago
+id: Id
+image: Image
+images: Images
+import_language: Import Language
+import_rss_feed: Import RSS Feed
+inactive: Inactive
+index: Index
+index_bottom_ad_space: Index (Bottom)
+index_top_ad_space: Index (Top)
+invalid_file_type: Invalid File Type!
+
+
+January: Jan
+join_newsletter: Join Our Newsletter
+json_language_file: JSON Language File
+July: Jul
+June: Jun
+just_now: Just Now
+keywords: Keywords
+language: Language
+languages: Languages
+
+
+language_code: Language Code
+language_name: Language Name
+language_settings: Language Settings
+last_modification: Last Modification
+last_modification_exp: The time the URL was last modified
+latest_posts: Latest Posts
+layout: Layout
+leave_message: Leave a Message
+leave_reply: Leave a Reply
+leave_your_comment: Leave your comment...
+left_to_right: Left to Right
+light_mode: Light Mode
+like: Like
+link: Link
+
+
+load_more_comments: Load More Comments
+location: Location
+login: Login
+login_error: Wrong username or password!
+logo: Logo
+logout: Logout
+logo_email: Logo Email
+love: Love
+mail: Mail
+
+
+mail_is_being_sent: Mail is being sent. Please do not close this page until the process is finished!
+mail_library: Mail Library
+maintenance_mode: Maintenance Mode
+main_image: Main Image
+main_menu: Main Menu
+
+
+main_nav: MAIN NAVIGATION
+main_post_image: Main post image
+manage_all_posts: Manage All Posts
+March: Mar
+May: May
+membership: Membership
+member_since: Member since
+menu_limit: Menu Limit
+message: Message
+
+
+message_ban_error: Your account has been banned!
+message_change_password: Your password has been successfully changed!
+message_contact_error: There was a problem while sending your message!
+message_contact_success: Your message has been sent successfully!
+message_invalid_email: Invalid email address!
+message_login_for_comment: You need to login to write a comment!
+message_newsletter_error: Your email address is already registered!
+message_newsletter_success: Your email address has been successfully added!
+message_page_auth: You must be logged in to view this page!
+message_post_auth: You must be logged in to view this post!
+message_profile: Profile updated successfully!
+message_register_error: There was a problem during registration. Please try again!
+message_slug_error: The slug you entered is being used by another user!
+meta_tag: Meta Tag
+minutes_ago: minutes ago
+minute_ago: minute ago
+mobile_logo: Mobile Logo
+monthly: Monthly
+months_ago: months ago
+month_ago: month ago
+more: More
+more_info: More info
+more_main_images: More main images (slider will be active)
+msg_add_picked: Post added to our picks!
+msg_add_slider: Post added to slider!
+msg_ban_removed: User ban successfully removed!
+msg_comment_approved: Comment successfully approved!
+msg_comment_sent_successfully: Your comment has been sent. It will be published after being reviewed by the site management.
+msg_cron_feed: With this URL you can automatically update your feeds.
+msg_cron_sitemap: With this URL you can automatically update your sitemap.
+msg_deleted: Item successfully deleted!
+msg_delete_album: Please delete categories belonging to this album first!
+msg_delete_images: Please delete images belonging to this category first!
+msg_delete_posts: Please delete posts belonging to this category first!
+msg_delete_subcategories: Please delete subcategories belonging to this category first!
+msg_email_sent: Email successfully sent!
+msg_error: An error occurred please try again!
+msg_img_uploaded: Image Successfully Uploaded!
+msg_item_added: Item successfully added!
+msg_language_delete: Default language cannot be deleted!
+msg_page_delete: Default pages can not be deleted!
+msg_page_slug_error: Invalid page slug!
+msg_post_approved: Post approved!
+msg_published: Post successfully published!
+msg_recaptcha: Please confirm that you are not a robot!
+msg_register_success: Your account has been created successfully!
+msg_remove_picked: Post removed from our picks!
+msg_remove_slider: Post removed from slider!
+msg_reset_cache: All cache files have been deleted!
+
+
+msg_reset_password_success: We've sent an email for resetting your password to your email address. Please check your email for next steps.
+msg_role_changed: User role successfully changed!
+
+
+msg_rss_warning: If you chose to download the images to your server, adding posts will take more time and will use more resources. If you see any problems, increase 'max_execution_time' and 'memory_limit' values from your server settings.
+
+
+msg_slug_used: The slug you entered is being used by another user!
+msg_subscriber_deleted: Subscriber successfully deleted!
+msg_suc_added: successfully added!
+msg_suc_deleted: successfully deleted!
+
+
+msg_suc_updated: successfully updated!
+msg_unsubscribe: You will no longer receive emails from us!
+msg_updated: Changes successfully saved!
+msg_username_unique_error: The username has already been taken.
+msg_user_added: User successfully added!
+msg_user_banned: User successfully banned!
+multilingual_system: Multilingual System
+my_posts: My Posts
+name: Name
+navigation: Navigation
+never: Never
+
+
+
+newsletter: Newsletter
+newsletter_desc: Join our subscribers list to get the latest news, updates and special offers directly in your inbox
+newsletter_email_error: Select email addresses that you want to send mail!
+newsletter_exp: Subscribe here to get interesting stuff and updates!
+
+
+
+newsletter_popup: Newsletter Popup
+
+new_password: New Password
+no: No
+none: None
+November: Nov
+no_thanks: No, thanks
+number_of_days: Number of Days
+number_of_days_exp: If you add 30 here, the system will delete posts older than 30 days
+number_of_posts_import: Number of Posts to Import
+October: Oct
+old_password: Old Password
+online: Online
+optional: Optional
+optional_url: Optional Url
+optional_url_name: Post Optional Url Button Name
+
+options: Options
+option_1: Option 1
+option_10: Option 10
+option_2: Option 2
+option_3: Option 3
+option_4: Option 4
+option_5: Option 5
+option_6: Option 6
+option_7: Option 7
+option_8: Option 8
+option_9: Option 9
+
+or: or
+order: Order
+or_login_with_email: Or login with email
+or_register_with_email: Or register with email
+
+
+our_picks: Our Picks
+page: Page
+pages: Pages
+page_not_found: Page not found
+page_not_found_sub: The page you are looking for doesn't exist.
+page_type: Page Type
+pagination_number_posts: Number of Posts Per Page (Pagination)
+panel: Panel
+
+parent_category: Parent Category
+parent_link: Parent Link
+password: Password
+paste_ad_code: Ad Code
+paste_ad_url: Ad Url
+
+pending_comments: Pending Comments
+pending_posts: Pending Posts
+permissions: Permissions
+phone: Phone
+phrases: Phrases
+
+please_select_option: Please select an option!
+png_not_animated: PNG (Not Animated)
+poll: Poll
+polls: Polls
+popular_posts: Popular Posts
+port: Port
+
+post: Post
+posts: Posts
+post_bottom_ad_space: Post Details (Bottom)
+post_comment: Post Comment
+post_details: Post Details
+post_owner: Post Owner
+post_top_ad_space: Post Details (Top)
+
+post_type: Post Type
+preview: Preview
+primary_font: Primary Font (Main)
+priority: Priority
+priority_exp: The priority of a particular URL relative to other pages on the same site
+priority_none: Automatically Calculated Priority
+profile: Profile
+profile_bottom_ad_space: Profile (Bottom)
+
+
+profile_top_ad_space: Profile (Top)
+protocol: Protocol
+publish: Publish
+question: Question
+random_posts: Random Posts
+reading_list: Reading List
+reading_list_bottom_ad_space: Reading List (Bottom)
+reading_list_empty: Your reading list is empty.
+reading_list_top_ad_space: Reading List (Top)
+
+
+
+readmore: Read More
+read_more_button_text: Read More Button Text
+recently_added_comments: Recently added comments
+recently_added_contact_messages: Recently added contact messages
+recently_added_unapproved_comments: Recently added unapproved comments
+
+
+recently_registered_users: Recently registered users
+refresh_cache_database_changes: Refresh Cache Files When Database Changes
+register: Register
+registered_emails: Registered Emails
+registration_system: Registration System
+
+
+related_posts: Related Posts
+remove_ban: Remove Ban
+remove_picked: Remove From Our Picks
+remove_slider: Remove From Slider
+reply: Reply
+reply_to: Reply to
+reset_cache: Reset Cache
+reset_password: Reset Password
+reset_password_error: We can't find a user with that e-mail address!
+right_to_left: Right to Left
+role: Role
+roles: Roles
+roles_permissions: Roles Permissions
+role_name: Role Name
+rss: RSS
+
+
+rss_feeds: RSS Feeds
+sad: Sad
+save: Save
+save_changes: Save Changes
+save_draft: Save as Draft
+search: Search
+search_bottom_ad_space: Search (Bottom)
+
+
+search_exp: Search...
+search_noresult: No results found.
+search_top_ad_space: Search (Top)
+secondary_font: Secondary Font (Titles)
+secret_key: Secret Key
+select: Select
+select_ad_spaces: Select Ad Space
+select_file: Select File
+select_image: Select image
+select_images: Select images
+select_multiple_images: You can select multiple images.
+select_option: Select an option
+send_email: Send Email
+
+
+send_reset_link: Send Password Reset Link
+send_test_email: Send Test Email
+send_test_email_exp: You can send a test mail to check if your mail server is working.
+seo_options: SEO options
+seo_tools: SEO Tools
+September: Sep
+
+
+server_response: Server's Response
+settings: Settings
+settings_language: Settings Language
+set_as_album_cover: Set as Album Cover
+set_as_default: Set as Default
+shared: Shared
+short_form: Short Form
+show: Show
+
+
+
+show_all_files: Show all Files
+show_breadcrumb: Show Breadcrumb
+show_cookies_warning: Show Cookies Warning
+
+show_email_on_profile: Show Email on Profile Page
+show_images_from_original_source: Show Images from Original Source
+show_only_own_files: Show Only Users Own Files
+show_only_registered: Show Only to Registered Users
+
+
+show_on_menu: Show on Menu
+show_post_view_counts: Show Post View Counts
+show_read_more_button: Show Read More Button
+show_right_column: Show Right Column
+show_title: Show Title
+sidebar_bottom_ad_space: Sidebar (Bottom)
+
+
+sidebar_top_ad_space: Sidebar (Top)
+sitemap: Sitemap
+site_color: Site Color
+site_comments: Comments
+site_description: Site Description
+site_font: Site Font
+site_key: Site Key
+
+
+site_language: Site Language
+site_title: Site Title
+slider: Slider
+slider_order: Slider Order
+slider_posts: Slider Posts
+slug: Slug
+slug_exp: If you leave it blank, it will be generated automatically.
+
+
+smtp: SMTP
+social_accounts: Social Accounts
+social_login_settings: Social Login Settings
+social_media: Social Media
+social_media_settings: Social Media Settings
+status: Status
+subcategories: Subcategories
+subcategory: Subcategory
+subject: Subject
+submit: Submit
+
+
+subscribe: Subscribe
+subscribers: Subscribers
+summary: Summary
+tag: Tag
+tags: Tags
+
+tag_bottom_ad_space: Tag (Bottom)
+tag_top_ad_space: Tag (Top)
+terms_conditions: Terms & Conditions
+terms_conditions_exp: I have read and agree to the
+tertiary_font: Tertiary Font (Post & Page Text)
+text_direction: Text Direction
+text_editor_language: Text Editor Language
+themes: Themes
+
+
+timezone: Timezone
+title: Title
+top_menu: Top Menu
+total_vote: Total Vote:
+translation: Translation
+txt_processing: Processing...
+type_tag: Type tag and hit enter
+unfollow: Unfollow
+
+
+unsubscribe: Unsubscribe
+unsubscribe_successful: Unsubscribe Successful!
+
+
+update: Update
+update_album: Update Album
+update_category: Update Category
+update_font: Update Font
+update_image: Update Image
+update_language: Update Language
+update_link: Update Menu Link
+update_page: Update Page
+
+
+update_poll: Update Poll
+update_post: Update Post
+update_profile: Update Profile
+update_rss_feed: Update Rss Feed
+update_subcategory: Update Subcategory
+
+
+update_video: Update Video
+uploading: Uploading...
+upload_image: Upload Image
+upload_your_banner: Create Ad Code
+url: Url
+user: User
+username: Username
+username_or_email: Username or email
+users: Users
+video: Video
+
+
+
+video_embed_code: Video Embed Code
+video_image: Video Image
+video_thumbnails: Video Thumbnails
+video_url: Video Url
+view_all: View All
+view_options: View Options
+view_results: View Results
+view_site: View Site
+visibility: Visibility
+visual_settings: Visual Settings
+vote: Vote
+
+
+voted_message: You already voted this poll before.
+voting_poll: Voting Poll
+warning: Warning!
+weekly: Weekly
+whats_your_reaction: What's Your Reaction?
+wow: Wow
+
+
+wrong_password_error: Wrong old password!
+yearly: Yearly
+years_ago: years ago
+year_ago: year ago
+yes: Yes
+
+
+
+Thank you for being a supporter! We love you!
